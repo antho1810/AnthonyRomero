@@ -26,6 +26,5 @@
 
 ### GitHub Stats 🚀 
 
-  [![Anthony GitHub stats](https://github-readme-stats.vercel.app/api?username=antho1810&show_icons=true&theme=vue-dark)]
-
+  ![Anthony GitHub stats](https://github-readme-stats.vercel.app/api?username=antho1810&show_icons=true&theme=default#gh-light-mode-only)
 
